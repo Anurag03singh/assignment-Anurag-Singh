@@ -145,6 +145,7 @@ export default function WorkersPage() {
                     className='object-cover'
                     loading='lazy'
                     priority={false}
+                    unoptimized={true}
                   />
                 </div>
                 <div className='p-4'>
